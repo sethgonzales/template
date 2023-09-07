@@ -16,10 +16,13 @@
 
 ## Setup/Installation Requirements
 
-* Navigate to the __________ repository on [GitHub](https://github.com/sethgonzales/file-name).
+* * Navigate to the __________ repository on [GitHub](https://github.com/sethgonzales/file-name).
 * Clone the repository from GitHub.
+* Create the clone using `$ git clone https://github.com/sethgonzales/file-name` in terminal.
+* Open the repository and create a .env file in the root directory.
+* Get API Key from [website] (https:_). If needed, create an account follow the instructions here: [website] (https:_).
+* Add the API Key into the .env file as "API_KEY=_". Double check if it is in the .gitignore.
 * In terminal...
-  * Open the clone using `$ git clone https://github.com/sethgonzales/file-name`.
   * Run `$ npm install` from the root directory to install all packages.
   * Build the project using webpack with `$ npm run build`.
   * Lint JavaScript files with `$ npm run lint`.
