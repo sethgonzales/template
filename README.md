@@ -28,6 +28,7 @@
   * Lint JavaScript files with `$ npm run lint`.
   * Run tests in Jest with `$ npm run test`.
   * Deploy a development server with `$ npm run start`.
+  * Deploy the site on GitHub Pages with `$ npm run deploy`
 
 ## Known Bugs
 
